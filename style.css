@@ -1,0 +1,55 @@
+body{
+    background-color: red;
+}
+.number{
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    /*position: relative;*/
+    margin-top: 20%;
+    background-color:black;
+    border: 2px solid black;
+    border-radius: 25px;
+    
+}
+#num{
+    
+    margin: auto;
+    margin-top: 10%;
+    margin-left:15%;
+    
+
+}
+#op{
+    margin: auto;
+    margin-top:7%;
+    margin-left:17%
+}
+#num input{
+    height: 30px;
+    width:200px;
+    border: 2px solid black;
+}
+#op input{
+    height:45px;
+    width:55px;
+    background-color: white;
+    border: 2px solid black;
+}
+#result{
+    height:45px;
+    width:55px;
+    /*position:absolute; */
+    background-color: white;
+    margin-left:40%;
+    margin-top: -15%;
+}
+#total{
+    height:30px;
+    width:fit-content;
+    /*position:absolute; */
+    background-color: white;
+    
+    margin-left:40%;
+    margin-top: -10%;
+}
